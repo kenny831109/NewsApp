@@ -6,7 +6,7 @@ target 'NewsApp' do
   use_frameworks!
   pod 'RxSwift'
   pod 'RxCocoa'
-  pod 'Alamofire'
+  pod 'Kingfisher'
   pod 'Moya/RxSwift'
   pod 'RealmSwift'
   # Pods for NewsApp
